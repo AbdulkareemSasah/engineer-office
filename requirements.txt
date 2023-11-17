@@ -1,1 +1,7 @@
-Django==4.1.3
+asgiref
+Django
+django-ckeditor
+django-js-asset
+Pillow
+sqlparse
+tzdata
