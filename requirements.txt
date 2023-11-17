@@ -5,3 +5,5 @@ django-js-asset
 Pillow
 sqlparse
 tzdata
+psycopg2
+python-dotenv
